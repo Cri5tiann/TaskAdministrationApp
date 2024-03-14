@@ -1,0 +1,15 @@
+custom-configuration:
+  property1: property_1_test
+  property2: property_2_test
+  connection_string: jdbc://postgresql/localhost:5432/project_manager
+
+spring:
+  jpa:
+    show-sql: true
+  datasource:
+    url: jdbc:postgresql://localhost:5432/project_manager
+    username: postgres
+    password: postgres
+    driver-class-name: org.postgresql.Driver
+
+
