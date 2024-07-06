@@ -2,7 +2,7 @@
 A java based application that uses Spring Boot and PostgreSQL.
 
 <h2><strong>Purpose</strong></h2>
-The application is used to administrate projects, their status and responsible for that project employees.
+The application is used to administrate projects, their status and responsible for that projects employees.
 
 <h2><strong>Goals</strong></h2>
 The goal of this project is to develop a comprehensive project management application that empowers users to efficiently manage projects, assign tasks to team members, and oversee project progress. The application will feature a user-friendly graphic interface tailored to streamline project management tasks, allowing users to access and manipulate project and employee data seamlessly without the need for a web browser.
